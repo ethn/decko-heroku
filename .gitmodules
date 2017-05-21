@@ -1,3 +1,6 @@
 [submodule "vendor/wagn"]
 	path = vendor/wagn
 	url = https://github.com/xithan/wagn
+[submodule "wagn"]
+	path = wagn
+	url = https://github.com/wagn/wagn
