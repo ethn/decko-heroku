@@ -1,3 +1,29 @@
+PATH
+  remote: wagn
+  specs:
+    card (1.20.4)
+      bootstrap-kaminari-views (~> 0)
+      carrierwave (= 1.0.0)
+      coderay (~> 1.0)
+      coffee-script (~> 2.2)
+      colorize (= 0.8.1)
+      diff-lcs (~> 1.2)
+      haml (~> 4.0)
+      htmlentities (~> 4.3)
+      kaminari (~> 0.16)
+      mime-types (= 2.99.1)
+      mini_magick (~> 4.2)
+      nokogiri (~> 1.6.8)
+      recaptcha (~> 0.4.0)
+      sass (~> 3.2)
+      smartname (= 0.5.1)
+      twitter (= 6.1.0)
+      uglifier (~> 3.0)
+      uuid (~> 2.3)
+    wagn (1.20.4)
+      card (= 1.20.4)
+      rails (~> 4.2)
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -44,25 +70,6 @@ GEM
       rails (>= 3.1)
     buftok (0.2.0)
     builder (3.2.3)
-    card (1.20.3)
-      bootstrap-kaminari-views (~> 0)
-      carrierwave (= 1.0.0)
-      coderay (~> 1.0)
-      coffee-script (~> 2.2)
-      colorize (= 0.8.1)
-      diff-lcs (~> 1.2)
-      haml (~> 4.0)
-      htmlentities (~> 4.3)
-      kaminari (~> 0.16)
-      mime-types (= 2.99.1)
-      mini_magick (~> 4.2)
-      nokogiri (~> 1.6.8)
-      recaptcha (~> 0.4.0)
-      sass (~> 3.2)
-      smartname (= 0.5.1)
-      twitter (= 6.1.0)
-      uglifier (~> 3.0)
-      uuid (~> 2.3)
     carrierwave (1.0.0)
       activemodel (>= 4.0.0)
       activesupport (>= 4.0.0)
@@ -227,19 +234,19 @@ GEM
       fog-core
       nokogiri (>= 1.5.11, < 2.0.0)
     formatador (0.2.5)
-    globalid (0.3.7)
-      activesupport (>= 4.1.0)
+    globalid (0.4.0)
+      activesupport (>= 4.2.0)
     haml (4.0.7)
       tilt
     htmlentities (4.3.4)
-    http (2.2.1)
+    http (2.2.2)
       addressable (~> 2.3)
       http-cookie (~> 1.0)
       http-form_data (~> 1.0.1)
       http_parser.rb (~> 0.6.0)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
-    http-form_data (1.0.1)
+    http-form_data (1.0.3)
     http_parser.rb (0.6.0)
     i18n (0.8.1)
     inflecto (0.0.2)
@@ -252,7 +259,7 @@ GEM
       nokogiri (>= 1.5.9)
     macaddr (1.7.1)
       systemu (~> 2.6.2)
-    mail (2.6.4)
+    mail (2.6.5)
       mime-types (>= 1.16, < 4)
     memoizable (0.4.2)
       thread_safe (~> 0.3, >= 0.3.1)
@@ -267,7 +274,7 @@ GEM
       mini_portile2 (~> 2.1.0)
     pg (0.20.0)
     public_suffix (2.0.5)
-    rack (1.6.5)
+    rack (1.6.8)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails (4.2.8)
@@ -306,7 +313,7 @@ GEM
       nokogiri (~> 1.5)
       trollop (~> 2.1)
     recaptcha (0.4.0)
-    sass (3.4.23)
+    sass (3.4.24)
     simple_oauth (0.3.1)
     smartname (0.5.1)
       activesupport
@@ -339,12 +346,9 @@ GEM
       execjs (>= 0.3.0, < 3)
     unf (0.1.4)
       unf_ext
-    unf_ext (0.0.7.3)
+    unf_ext (0.0.7.4)
     uuid (2.3.8)
       macaddr (~> 1.0)
-    wagn (1.20.3)
-      card (= 1.20.3)
-      rails (~> 4.2)
     xml-simple (1.1.5)
 
 PLATFORMS
@@ -356,7 +360,7 @@ DEPENDENCIES
   fog-aws
   pg
   rails_12factor
-  wagn (~> 1.20)
+  wagn!
 
 BUNDLED WITH
    1.12.5

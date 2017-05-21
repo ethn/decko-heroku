@@ -1,5 +1,5 @@
 source 'http://rubygems.org'
-gem 'wagn', '~> 1.20'
+gem 'wagn', path: 'wagn'
 gem 'pg'
 gem 'rails_12factor'
 gem 'fog'
