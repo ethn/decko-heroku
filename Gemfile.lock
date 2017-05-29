@@ -269,10 +269,10 @@ GEM
     minitest (5.10.1)
     multi_json (1.12.1)
     multipart-post (2.0.0)
+    mysql2 (0.3.21)
     naught (1.1.0)
     nokogiri (1.6.8.1)
       mini_portile2 (~> 2.1.0)
-    pg (0.20.0)
     public_suffix (2.0.5)
     rack (1.6.8)
     rack-test (0.6.3)
@@ -358,7 +358,7 @@ DEPENDENCIES
   delayed_job_active_record
   fog
   fog-aws
-  pg
+  mysql2
   rails_12factor
   wagn!
 
