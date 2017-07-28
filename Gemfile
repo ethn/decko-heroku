@@ -1,5 +1,6 @@
 source 'http://rubygems.org'
 gem 'wagn', path: 'wagn'
+# gem 'mysql2'
 gem 'pg'
 gem 'rails_12factor'
 gem 'fog'
