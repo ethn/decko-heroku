@@ -1,0 +1,9 @@
+{{_L|name}}
+{{_L+contacts|core|core;structure:csv email}}
+{{_L+title}}
+{{_L+funding years|core|name}}
+{{_L+rank}}
+{{_L+description}}
+{{_L+proposal}}
+{{_L|title: submission date;created at; variant: %m/%d/%Y}}
+{{_L|title: submission time;created at; variant: %l:%M%P}}

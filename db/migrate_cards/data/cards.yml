@@ -1,0 +1,51 @@
+---
+:cards:
+- :name: Idea+csv view+*type plus right+*structure
+  :type: HTML
+  :key: idea+csv_view+*type_plu_right+*structure
+  :merged: 2017-07-28 20:42:36 UTC
+- :name: Idea+csv view+*type plus right
+  :type: Set
+  :key: idea+csv_view+*type_plu_right
+  :merged: 2017-07-28 20:42:36 UTC
+- :name: csv view+*right+*structure
+  :type: HTML
+  :key: csv_view+*right+*structure
+  :merged: 2017-07-28 20:42:36 UTC
+- :name: csv view+*right
+  :type: Set
+  :key: csv_view+*right
+  :merged: 2017-07-28 20:42:36 UTC
+- :name: Contacts+csv_view
+  :type: HTML
+  :key: contact+csv_view
+  :merged: 2017-07-28 20:42:36 UTC
+- :name: Idea+csv view
+  :type: HTML
+  :key: idea+csv_view
+  :merged: 2017-07-28 20:42:36 UTC
+- :name: Proposal+csv view
+  :type: HTML
+  :key: proposal+csv_view
+  :merged: 2017-07-28 20:42:36 UTC
+- :name: Search+csv view
+  :type: HTML
+  :key: search+csv_view
+  :merged: 2017-07-28 20:42:36 UTC
+- :name: Contacts+csv_view+*type_plus_right+*structure
+  :type: Basic
+  :key: contact+csv_view+*type_plu_right+*structure
+  :merged: 2017-07-28 20:42:36 UTC
+- :name: Contacts+csv_view+*type_plus_right
+  :type: Set
+  :key: contact+csv_view+*type_plu_right
+  :merged: 2017-07-28 20:42:36 UTC
+- :name: Proposal+csv view+*type plus right+*structure
+  :type: HTML
+  :key: proposal+csv_view+*type_plu_right+*structure
+  :merged: 2017-07-28 20:42:36 UTC
+- :name: Proposal+csv view+*type plus right
+  :type: Set
+  :key: proposal+csv_view+*type_plu_right
+  :merged: 2017-07-28 20:42:36 UTC
+:remotes: {}

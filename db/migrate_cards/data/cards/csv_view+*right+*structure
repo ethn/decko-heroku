@@ -1,0 +1,8 @@
+{{_L|name}}
+{{_L+title}}
+{{_L+cost}}
+{{_L+rank}}
+{{_L+research subcategory}}
+{{_L+contact information}}
+{{_L|created at; variant: %m/%d/%Y}}
+{{_L|created at; variant: %l:%M%P}}

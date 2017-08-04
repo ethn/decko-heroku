@@ -1,0 +1,15 @@
+<div>{{_L|name}}</div>
+<div>{{_L|url}}</div>
+<div> </div>
+<div>{{_L+organization}}</div>
+<div>{{_L+title}}</div>
+<div> </div>
+<div>{{_L+address}}</div>
+<div>{{_L+city}}</div>
+<div>{{_L+state}}</div>
+<div>{{_L+zip}}</div>
+<div> </div>
+<div>{{_L+email}}</div>
+<div>{{_L+phone}}</div>
+<div> </div>
+<div>{{_L+additional information}}</div>
