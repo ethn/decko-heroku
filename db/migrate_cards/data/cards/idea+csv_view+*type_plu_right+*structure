@@ -1,6 +1,7 @@
 {{_L|name}}
 {{_L+contacts|core|core;structure:csv email}}
 {{_L+title}}
+{{_L+category|core|name}}
 {{_L+funding years|core|name}}
 {{_L+description}}
 {{_L|title: submission date;created at; variant: %m/%d/%Y}}
